@@ -4,6 +4,8 @@ Bu repo, domain ortamında **PDQ Deploy** kullanarak:
 - **Kaspersky Endpoint Security for Windows (KES)**
 - **Kaspersky Network Agent**
 
+!!! Bu Script sadece PDQ için değil GPO ile de dağıtımını gerçekleştirebilirsiniz.
+
 bileşenlerini tespit etmek ve kaldırmak için hazırlanmıştır.
 
 > Scriptler **read-only tespit** ve **kontrollü kaldırma** akışına göre tasarlanmıştır.  
