@@ -196,3 +196,6 @@ Write-Host "VERIFY SUCCESS: Network Agent removed."
 
 Write-Host "DONE: Kaspersky cleanup process completed."
 exit 0
+
+Write-Host "DONE: Kaspersky cleanup process completed."
+exit 0
