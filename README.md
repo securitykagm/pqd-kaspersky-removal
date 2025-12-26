@@ -50,6 +50,8 @@ için PDQ ile otomasyon pratik bir çözümdür.
 - Options: `Include Subfolders ve Copy All Files seçili olmalı`
 - Step 2: **Powershell**
 - Repo içerisinde verdiğim Powershell Script içeriğini direkt kopyalayabilirsiniz.
+- Powershell için Optionsta bulunan Run as kısmında Local System'i seçmek zorundayız. Çünkü Cleaner.exe çalıştığında kullanıcı Local System kullanıcısı değilse UAC popup'ı açılıyor ve script timeoutta kalıyor.
+- <img width="820" height="162" alt="image" src="https://github.com/user-attachments/assets/575981c4-9471-4c03-9bae-5803b281ccff" />
 
 ---
 
