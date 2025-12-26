@@ -56,4 +56,5 @@ için PDQ ile otomasyon pratik bir çözümdür.
 ## Güvenlik Notu
 - Repo **secret/parola içermez**.
 - Network Agent kaldırma şifresi gerekiyorsa script içerisindeki değişken değiştirilmelidir.
+- Eğer dökümanda gösterilen CopyFile pathini değiştirecek iseniz kod içerisindeki `$Cleaner = "C:\ProgramData\KasperskyCleaner\cleaner.exe"` pathini CopyFile da verdiğiniz Target Folder değeri ile değiştiriniz.
 - Üretim ortamında yaygın dağıtım öncesi pilot test şarttır.
